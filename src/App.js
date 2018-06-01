@@ -13,9 +13,7 @@ export default class App extends Component {
     return (
       <Router>
         <Switch>
-          <Route exact path='/' component={HomePage} />
-
-          <Route render={() => (<div> TODO: 404 page </div>)} />
+          <Route component={HomePage} />
         </Switch>
       </Router>
     )
