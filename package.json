@@ -4,6 +4,7 @@
   "private": true,
   "description": "Demo website for the primitive JS library which reproduces images from geometric primitives.",
   "repository": "transitive-bullshit/primitive-web",
+  "homepage": "https://transitive-bullshit.github.io/primitive-web",
   "license": "MIT",
   "scripts": {
     "start": "react-app-rewired start",
