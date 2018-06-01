@@ -3,12 +3,9 @@
  */
 
 import bowser from 'bowser'
-
-import api from 'lib/api'
-import debug from 'lib/debug'
+import debug from './debug'
 
 debug('environment', {
-  apiBaseUrl: api.baseUrl,
   browser: `${bowser.name}@${bowser.version}`,
   env: process.env.NODE_ENV,
   appName: process.env.REACT_APP_NAME,
