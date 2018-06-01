@@ -1,0 +1,792 @@
+[
+  {
+    "base": "https://storage.googleapis.com/transitive-bullshit-primitive/aaron-burden-363695-unsplash.jpg",
+    "shape": "random",
+    "size": 500,
+    "triangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/aaron-burden-363695-unsplash-triangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/aaron-burden-363695-unsplash-triangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/aaron-burden-363695-unsplash-triangle-500.png"
+    ],
+    "rectangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/aaron-burden-363695-unsplash-rotated-rectangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/aaron-burden-363695-unsplash-rotated-rectangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/aaron-burden-363695-unsplash-rotated-rectangle-500.png"
+    ],
+    "ellipse": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/aaron-burden-363695-unsplash-rotated-ellipse-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/aaron-burden-363695-unsplash-rotated-ellipse-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/aaron-burden-363695-unsplash-rotated-ellipse-500.png"
+    ],
+    "random": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/aaron-burden-363695-unsplash-random-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/aaron-burden-363695-unsplash-random-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/aaron-burden-363695-unsplash-random-500.png"
+    ]
+  },
+  {
+    "base": "https://storage.googleapis.com/transitive-bullshit-primitive/alekzan-powell-408990-unsplash.jpg",
+    "shape": "triangle",
+    "size": 200,
+    "triangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/alekzan-powell-408990-unsplash-triangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/alekzan-powell-408990-unsplash-triangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/alekzan-powell-408990-unsplash-triangle-500.png"
+    ],
+    "rectangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/alekzan-powell-408990-unsplash-rotated-rectangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/alekzan-powell-408990-unsplash-rotated-rectangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/alekzan-powell-408990-unsplash-rotated-rectangle-500.png"
+    ],
+    "ellipse": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/alekzan-powell-408990-unsplash-rotated-ellipse-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/alekzan-powell-408990-unsplash-rotated-ellipse-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/alekzan-powell-408990-unsplash-rotated-ellipse-500.png"
+    ],
+    "random": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/alekzan-powell-408990-unsplash-random-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/alekzan-powell-408990-unsplash-random-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/alekzan-powell-408990-unsplash-random-500.png"
+    ]
+  },
+  {
+    "base": "https://storage.googleapis.com/transitive-bullshit-primitive/anthony-ginsbrook-294309-unsplash.jpg",
+    "shape": "ellipse",
+    "size": 500,
+    "triangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/anthony-ginsbrook-294309-unsplash-triangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/anthony-ginsbrook-294309-unsplash-triangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/anthony-ginsbrook-294309-unsplash-triangle-500.png"
+    ],
+    "rectangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/anthony-ginsbrook-294309-unsplash-rotated-rectangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/anthony-ginsbrook-294309-unsplash-rotated-rectangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/anthony-ginsbrook-294309-unsplash-rotated-rectangle-500.png"
+    ],
+    "ellipse": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/anthony-ginsbrook-294309-unsplash-rotated-ellipse-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/anthony-ginsbrook-294309-unsplash-rotated-ellipse-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/anthony-ginsbrook-294309-unsplash-rotated-ellipse-500.png"
+    ],
+    "random": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/anthony-ginsbrook-294309-unsplash-random-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/anthony-ginsbrook-294309-unsplash-random-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/anthony-ginsbrook-294309-unsplash-random-500.png"
+    ]
+  },
+  {
+    "base": "https://storage.googleapis.com/transitive-bullshit-primitive/artem-bali-578205-unsplash.jpg",
+    "shape": "triangle",
+    "size": 500,
+    "triangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/artem-bali-578205-unsplash-triangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/artem-bali-578205-unsplash-triangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/artem-bali-578205-unsplash-triangle-500.png"
+    ],
+    "rectangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/artem-bali-578205-unsplash-rotated-rectangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/artem-bali-578205-unsplash-rotated-rectangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/artem-bali-578205-unsplash-rotated-rectangle-500.png"
+    ],
+    "ellipse": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/artem-bali-578205-unsplash-rotated-ellipse-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/artem-bali-578205-unsplash-rotated-ellipse-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/artem-bali-578205-unsplash-rotated-ellipse-500.png"
+    ],
+    "random": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/artem-bali-578205-unsplash-random-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/artem-bali-578205-unsplash-random-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/artem-bali-578205-unsplash-random-500.png"
+    ]
+  },
+  {
+    "base": "https://storage.googleapis.com/transitive-bullshit-primitive/atikh-bana-125761-unsplash.jpg",
+    "shape": "ellipse",
+    "size": 500,
+    "triangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/atikh-bana-125761-unsplash-triangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/atikh-bana-125761-unsplash-triangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/atikh-bana-125761-unsplash-triangle-500.png"
+    ],
+    "rectangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/atikh-bana-125761-unsplash-rotated-rectangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/atikh-bana-125761-unsplash-rotated-rectangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/atikh-bana-125761-unsplash-rotated-rectangle-500.png"
+    ],
+    "ellipse": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/atikh-bana-125761-unsplash-rotated-ellipse-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/atikh-bana-125761-unsplash-rotated-ellipse-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/atikh-bana-125761-unsplash-rotated-ellipse-500.png"
+    ],
+    "random": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/atikh-bana-125761-unsplash-random-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/atikh-bana-125761-unsplash-random-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/atikh-bana-125761-unsplash-random-500.png"
+    ]
+  },
+  {
+    "base": "https://storage.googleapis.com/transitive-bullshit-primitive/caleb-woods-248879-unsplash.jpg",
+    "shape": "random",
+    "size": 500,
+    "triangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/caleb-woods-248879-unsplash-triangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/caleb-woods-248879-unsplash-triangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/caleb-woods-248879-unsplash-triangle-500.png"
+    ],
+    "rectangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/caleb-woods-248879-unsplash-rotated-rectangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/caleb-woods-248879-unsplash-rotated-rectangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/caleb-woods-248879-unsplash-rotated-rectangle-500.png"
+    ],
+    "ellipse": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/caleb-woods-248879-unsplash-rotated-ellipse-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/caleb-woods-248879-unsplash-rotated-ellipse-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/caleb-woods-248879-unsplash-rotated-ellipse-500.png"
+    ],
+    "random": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/caleb-woods-248879-unsplash-random-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/caleb-woods-248879-unsplash-random-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/caleb-woods-248879-unsplash-random-500.png"
+    ]
+  },
+  {
+    "base": "https://storage.googleapis.com/transitive-bullshit-primitive/cam-bowers-124438-unsplash.jpg",
+    "shape": "triangle",
+    "size": 500,
+    "triangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/cam-bowers-124438-unsplash-triangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/cam-bowers-124438-unsplash-triangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/cam-bowers-124438-unsplash-triangle-500.png"
+    ],
+    "rectangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/cam-bowers-124438-unsplash-rotated-rectangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/cam-bowers-124438-unsplash-rotated-rectangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/cam-bowers-124438-unsplash-rotated-rectangle-500.png"
+    ],
+    "ellipse": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/cam-bowers-124438-unsplash-rotated-ellipse-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/cam-bowers-124438-unsplash-rotated-ellipse-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/cam-bowers-124438-unsplash-rotated-ellipse-500.png"
+    ],
+    "random": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/cam-bowers-124438-unsplash-random-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/cam-bowers-124438-unsplash-random-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/cam-bowers-124438-unsplash-random-500.png"
+    ]
+  },
+  {
+    "base": "https://storage.googleapis.com/transitive-bullshit-primitive/courtney-prather-603203-unsplash.jpg",
+    "shape": "ellipse",
+    "size": 500,
+    "triangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/courtney-prather-603203-unsplash-triangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/courtney-prather-603203-unsplash-triangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/courtney-prather-603203-unsplash-triangle-500.png"
+    ],
+    "rectangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/courtney-prather-603203-unsplash-rotated-rectangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/courtney-prather-603203-unsplash-rotated-rectangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/courtney-prather-603203-unsplash-rotated-rectangle-500.png"
+    ],
+    "ellipse": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/courtney-prather-603203-unsplash-rotated-ellipse-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/courtney-prather-603203-unsplash-rotated-ellipse-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/courtney-prather-603203-unsplash-rotated-ellipse-500.png"
+    ],
+    "random": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/courtney-prather-603203-unsplash-random-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/courtney-prather-603203-unsplash-random-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/courtney-prather-603203-unsplash-random-500.png"
+    ]
+  },
+  {
+    "base": "https://storage.googleapis.com/transitive-bullshit-primitive/daniel-apodaca-405558-unsplash.jpg",
+    "shape": "triangle",
+    "size": 500,
+    "triangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/daniel-apodaca-405558-unsplash-triangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/daniel-apodaca-405558-unsplash-triangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/daniel-apodaca-405558-unsplash-triangle-500.png"
+    ],
+    "rectangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/daniel-apodaca-405558-unsplash-rotated-rectangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/daniel-apodaca-405558-unsplash-rotated-rectangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/daniel-apodaca-405558-unsplash-rotated-rectangle-500.png"
+    ],
+    "ellipse": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/daniel-apodaca-405558-unsplash-rotated-ellipse-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/daniel-apodaca-405558-unsplash-rotated-ellipse-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/daniel-apodaca-405558-unsplash-rotated-ellipse-500.png"
+    ],
+    "random": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/daniel-apodaca-405558-unsplash-random-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/daniel-apodaca-405558-unsplash-random-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/daniel-apodaca-405558-unsplash-random-500.png"
+    ]
+  },
+  {
+    "base": "https://storage.googleapis.com/transitive-bullshit-primitive/eaters-collective-109599-unsplash.jpg",
+    "shape": "random",
+    "size": 500,
+    "triangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/eaters-collective-109599-unsplash-triangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/eaters-collective-109599-unsplash-triangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/eaters-collective-109599-unsplash-triangle-500.png"
+    ],
+    "rectangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/eaters-collective-109599-unsplash-rotated-rectangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/eaters-collective-109599-unsplash-rotated-rectangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/eaters-collective-109599-unsplash-rotated-rectangle-500.png"
+    ],
+    "ellipse": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/eaters-collective-109599-unsplash-rotated-ellipse-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/eaters-collective-109599-unsplash-rotated-ellipse-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/eaters-collective-109599-unsplash-rotated-ellipse-500.png"
+    ],
+    "random": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/eaters-collective-109599-unsplash-random-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/eaters-collective-109599-unsplash-random-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/eaters-collective-109599-unsplash-random-500.png"
+    ]
+  },
+  {
+    "base": "https://storage.googleapis.com/transitive-bullshit-primitive/francis-taylor-33214-unsplash.jpg",
+    "shape": "ellipse",
+    "size": 500,
+    "triangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/francis-taylor-33214-unsplash-triangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/francis-taylor-33214-unsplash-triangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/francis-taylor-33214-unsplash-triangle-500.png"
+    ],
+    "rectangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/francis-taylor-33214-unsplash-rotated-rectangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/francis-taylor-33214-unsplash-rotated-rectangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/francis-taylor-33214-unsplash-rotated-rectangle-500.png"
+    ],
+    "ellipse": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/francis-taylor-33214-unsplash-rotated-ellipse-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/francis-taylor-33214-unsplash-rotated-ellipse-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/francis-taylor-33214-unsplash-rotated-ellipse-500.png"
+    ],
+    "random": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/francis-taylor-33214-unsplash-random-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/francis-taylor-33214-unsplash-random-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/francis-taylor-33214-unsplash-random-500.png"
+    ]
+  },
+  {
+    "base": "https://storage.googleapis.com/transitive-bullshit-primitive/gian-reto-tarnutzer-45214-unsplash.jpg",
+    "shape": "random",
+    "size": 500,
+    "triangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/gian-reto-tarnutzer-45214-unsplash-triangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/gian-reto-tarnutzer-45214-unsplash-triangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/gian-reto-tarnutzer-45214-unsplash-triangle-500.png"
+    ],
+    "rectangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/gian-reto-tarnutzer-45214-unsplash-rotated-rectangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/gian-reto-tarnutzer-45214-unsplash-rotated-rectangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/gian-reto-tarnutzer-45214-unsplash-rotated-rectangle-500.png"
+    ],
+    "ellipse": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/gian-reto-tarnutzer-45214-unsplash-rotated-ellipse-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/gian-reto-tarnutzer-45214-unsplash-rotated-ellipse-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/gian-reto-tarnutzer-45214-unsplash-rotated-ellipse-500.png"
+    ],
+    "random": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/gian-reto-tarnutzer-45214-unsplash-random-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/gian-reto-tarnutzer-45214-unsplash-random-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/gian-reto-tarnutzer-45214-unsplash-random-500.png"
+    ]
+  },
+  {
+    "base": "https://storage.googleapis.com/transitive-bullshit-primitive/glauco-zuccaccia-132831-unsplash.jpg",
+    "shape": "ellipse",
+    "size": 500,
+    "triangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/glauco-zuccaccia-132831-unsplash-triangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/glauco-zuccaccia-132831-unsplash-triangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/glauco-zuccaccia-132831-unsplash-triangle-500.png"
+    ],
+    "rectangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/glauco-zuccaccia-132831-unsplash-rotated-rectangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/glauco-zuccaccia-132831-unsplash-rotated-rectangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/glauco-zuccaccia-132831-unsplash-rotated-rectangle-500.png"
+    ],
+    "ellipse": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/glauco-zuccaccia-132831-unsplash-rotated-ellipse-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/glauco-zuccaccia-132831-unsplash-rotated-ellipse-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/glauco-zuccaccia-132831-unsplash-rotated-ellipse-500.png"
+    ],
+    "random": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/glauco-zuccaccia-132831-unsplash-random-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/glauco-zuccaccia-132831-unsplash-random-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/glauco-zuccaccia-132831-unsplash-random-500.png"
+    ]
+  },
+  {
+    "base": "https://storage.googleapis.com/transitive-bullshit-primitive/jessica-weiller-60884-unsplash.jpg",
+    "shape": "triangle",
+    "size": 500,
+    "triangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/jessica-weiller-60884-unsplash-triangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/jessica-weiller-60884-unsplash-triangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/jessica-weiller-60884-unsplash-triangle-500.png"
+    ],
+    "rectangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/jessica-weiller-60884-unsplash-rotated-rectangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/jessica-weiller-60884-unsplash-rotated-rectangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/jessica-weiller-60884-unsplash-rotated-rectangle-500.png"
+    ],
+    "ellipse": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/jessica-weiller-60884-unsplash-rotated-ellipse-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/jessica-weiller-60884-unsplash-rotated-ellipse-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/jessica-weiller-60884-unsplash-rotated-ellipse-500.png"
+    ],
+    "random": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/jessica-weiller-60884-unsplash-random-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/jessica-weiller-60884-unsplash-random-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/jessica-weiller-60884-unsplash-random-500.png"
+    ]
+  },
+  {
+    "base": "https://storage.googleapis.com/transitive-bullshit-primitive/jude-infantini-616990-unsplash.jpg",
+    "shape": "random",
+    "size": 500,
+    "triangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/jude-infantini-616990-unsplash-triangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/jude-infantini-616990-unsplash-triangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/jude-infantini-616990-unsplash-triangle-500.png"
+    ],
+    "rectangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/jude-infantini-616990-unsplash-rotated-rectangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/jude-infantini-616990-unsplash-rotated-rectangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/jude-infantini-616990-unsplash-rotated-rectangle-500.png"
+    ],
+    "ellipse": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/jude-infantini-616990-unsplash-rotated-ellipse-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/jude-infantini-616990-unsplash-rotated-ellipse-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/jude-infantini-616990-unsplash-rotated-ellipse-500.png"
+    ],
+    "random": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/jude-infantini-616990-unsplash-random-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/jude-infantini-616990-unsplash-random-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/jude-infantini-616990-unsplash-random-500.png"
+    ]
+  },
+  {
+    "base": "https://storage.googleapis.com/transitive-bullshit-primitive/laura-ockel-197421-unsplash.jpg",
+    "shape": "ellipse",
+    "size": 500,
+    "triangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/laura-ockel-197421-unsplash-triangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/laura-ockel-197421-unsplash-triangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/laura-ockel-197421-unsplash-triangle-500.png"
+    ],
+    "rectangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/laura-ockel-197421-unsplash-rotated-rectangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/laura-ockel-197421-unsplash-rotated-rectangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/laura-ockel-197421-unsplash-rotated-rectangle-500.png"
+    ],
+    "ellipse": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/laura-ockel-197421-unsplash-rotated-ellipse-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/laura-ockel-197421-unsplash-rotated-ellipse-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/laura-ockel-197421-unsplash-rotated-ellipse-500.png"
+    ],
+    "random": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/laura-ockel-197421-unsplash-random-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/laura-ockel-197421-unsplash-random-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/laura-ockel-197421-unsplash-random-500.png"
+    ]
+  },
+  {
+    "base": "https://storage.googleapis.com/transitive-bullshit-primitive/levi-saunders-3066-unsplash.jpg",
+    "shape": "triangle",
+    "size": 500,
+    "triangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/levi-saunders-3066-unsplash-triangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/levi-saunders-3066-unsplash-triangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/levi-saunders-3066-unsplash-triangle-500.png"
+    ],
+    "rectangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/levi-saunders-3066-unsplash-rotated-rectangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/levi-saunders-3066-unsplash-rotated-rectangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/levi-saunders-3066-unsplash-rotated-rectangle-500.png"
+    ],
+    "ellipse": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/levi-saunders-3066-unsplash-rotated-ellipse-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/levi-saunders-3066-unsplash-rotated-ellipse-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/levi-saunders-3066-unsplash-rotated-ellipse-500.png"
+    ],
+    "random": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/levi-saunders-3066-unsplash-random-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/levi-saunders-3066-unsplash-random-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/levi-saunders-3066-unsplash-random-500.png"
+    ]
+  },
+  {
+    "base": "https://storage.googleapis.com/transitive-bullshit-primitive/luca-bravo-177552-unsplash.jpg",
+    "shape": "rectangle",
+    "size": 500,
+    "triangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/luca-bravo-177552-unsplash-triangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/luca-bravo-177552-unsplash-triangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/luca-bravo-177552-unsplash-triangle-500.png"
+    ],
+    "rectangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/luca-bravo-177552-unsplash-rotated-rectangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/luca-bravo-177552-unsplash-rotated-rectangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/luca-bravo-177552-unsplash-rotated-rectangle-500.png"
+    ],
+    "ellipse": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/luca-bravo-177552-unsplash-rotated-ellipse-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/luca-bravo-177552-unsplash-rotated-ellipse-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/luca-bravo-177552-unsplash-rotated-ellipse-500.png"
+    ],
+    "random": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/luca-bravo-177552-unsplash-random-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/luca-bravo-177552-unsplash-random-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/luca-bravo-177552-unsplash-random-500.png"
+    ]
+  },
+  {
+    "base": "https://storage.googleapis.com/transitive-bullshit-primitive/lucas-alexander-15980-unsplash.jpg",
+    "shape": "random",
+    "size": 500,
+    "triangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/lucas-alexander-15980-unsplash-triangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/lucas-alexander-15980-unsplash-triangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/lucas-alexander-15980-unsplash-triangle-500.png"
+    ],
+    "rectangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/lucas-alexander-15980-unsplash-rotated-rectangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/lucas-alexander-15980-unsplash-rotated-rectangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/lucas-alexander-15980-unsplash-rotated-rectangle-500.png"
+    ],
+    "ellipse": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/lucas-alexander-15980-unsplash-rotated-ellipse-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/lucas-alexander-15980-unsplash-rotated-ellipse-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/lucas-alexander-15980-unsplash-rotated-ellipse-500.png"
+    ],
+    "random": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/lucas-alexander-15980-unsplash-random-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/lucas-alexander-15980-unsplash-random-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/lucas-alexander-15980-unsplash-random-500.png"
+    ]
+  },
+  {
+    "base": "https://storage.googleapis.com/transitive-bullshit-primitive/michael-haslim-21018-unsplash.jpg",
+    "shape": "ellipse",
+    "size": 500,
+    "triangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/michael-haslim-21018-unsplash-triangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/michael-haslim-21018-unsplash-triangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/michael-haslim-21018-unsplash-triangle-500.png"
+    ],
+    "rectangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/michael-haslim-21018-unsplash-rotated-rectangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/michael-haslim-21018-unsplash-rotated-rectangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/michael-haslim-21018-unsplash-rotated-rectangle-500.png"
+    ],
+    "ellipse": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/michael-haslim-21018-unsplash-rotated-ellipse-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/michael-haslim-21018-unsplash-rotated-ellipse-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/michael-haslim-21018-unsplash-rotated-ellipse-500.png"
+    ],
+    "random": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/michael-haslim-21018-unsplash-random-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/michael-haslim-21018-unsplash-random-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/michael-haslim-21018-unsplash-random-500.png"
+    ]
+  },
+  {
+    "base": "https://storage.googleapis.com/transitive-bullshit-primitive/nasa-43979-unsplash.jpg",
+    "shape": "random",
+    "size": 500,
+    "triangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/nasa-43979-unsplash-triangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/nasa-43979-unsplash-triangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/nasa-43979-unsplash-triangle-500.png"
+    ],
+    "rectangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/nasa-43979-unsplash-rotated-rectangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/nasa-43979-unsplash-rotated-rectangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/nasa-43979-unsplash-rotated-rectangle-500.png"
+    ],
+    "ellipse": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/nasa-43979-unsplash-rotated-ellipse-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/nasa-43979-unsplash-rotated-ellipse-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/nasa-43979-unsplash-rotated-ellipse-500.png"
+    ],
+    "random": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/nasa-43979-unsplash-random-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/nasa-43979-unsplash-random-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/nasa-43979-unsplash-random-500.png"
+    ]
+  },
+  {
+    "base": "https://storage.googleapis.com/transitive-bullshit-primitive/nicolas-picard-450042-unsplash.jpg",
+    "shape": "ellipse",
+    "size": 500,
+    "triangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/nicolas-picard-450042-unsplash-triangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/nicolas-picard-450042-unsplash-triangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/nicolas-picard-450042-unsplash-triangle-500.png"
+    ],
+    "rectangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/nicolas-picard-450042-unsplash-rotated-rectangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/nicolas-picard-450042-unsplash-rotated-rectangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/nicolas-picard-450042-unsplash-rotated-rectangle-500.png"
+    ],
+    "ellipse": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/nicolas-picard-450042-unsplash-rotated-ellipse-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/nicolas-picard-450042-unsplash-rotated-ellipse-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/nicolas-picard-450042-unsplash-rotated-ellipse-500.png"
+    ],
+    "random": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/nicolas-picard-450042-unsplash-random-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/nicolas-picard-450042-unsplash-random-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/nicolas-picard-450042-unsplash-random-500.png"
+    ]
+  },
+  {
+    "base": "https://storage.googleapis.com/transitive-bullshit-primitive/patrick-fore-557736-unsplash.jpg",
+    "shape": "ellipse",
+    "size": 500,
+    "triangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/patrick-fore-557736-unsplash-triangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/patrick-fore-557736-unsplash-triangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/patrick-fore-557736-unsplash-triangle-500.png"
+    ],
+    "rectangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/patrick-fore-557736-unsplash-rotated-rectangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/patrick-fore-557736-unsplash-rotated-rectangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/patrick-fore-557736-unsplash-rotated-rectangle-500.png"
+    ],
+    "ellipse": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/patrick-fore-557736-unsplash-rotated-ellipse-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/patrick-fore-557736-unsplash-rotated-ellipse-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/patrick-fore-557736-unsplash-rotated-ellipse-500.png"
+    ],
+    "random": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/patrick-fore-557736-unsplash-random-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/patrick-fore-557736-unsplash-random-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/patrick-fore-557736-unsplash-random-500.png"
+    ]
+  },
+  {
+    "base": "https://storage.googleapis.com/transitive-bullshit-primitive/rawpixel-603026-unsplash.jpg",
+    "shape": "triangle",
+    "size": 500,
+    "triangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/rawpixel-603026-unsplash-triangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/rawpixel-603026-unsplash-triangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/rawpixel-603026-unsplash-triangle-500.png"
+    ],
+    "rectangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/rawpixel-603026-unsplash-rotated-rectangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/rawpixel-603026-unsplash-rotated-rectangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/rawpixel-603026-unsplash-rotated-rectangle-500.png"
+    ],
+    "ellipse": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/rawpixel-603026-unsplash-rotated-ellipse-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/rawpixel-603026-unsplash-rotated-ellipse-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/rawpixel-603026-unsplash-rotated-ellipse-500.png"
+    ],
+    "random": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/rawpixel-603026-unsplash-random-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/rawpixel-603026-unsplash-random-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/rawpixel-603026-unsplash-random-500.png"
+    ]
+  },
+  {
+    "base": "https://storage.googleapis.com/transitive-bullshit-primitive/ray-hennessy-229596-unsplash.jpg",
+    "shape": "ellipse",
+    "size": 500,
+    "triangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/ray-hennessy-229596-unsplash-triangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/ray-hennessy-229596-unsplash-triangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/ray-hennessy-229596-unsplash-triangle-500.png"
+    ],
+    "rectangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/ray-hennessy-229596-unsplash-rotated-rectangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/ray-hennessy-229596-unsplash-rotated-rectangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/ray-hennessy-229596-unsplash-rotated-rectangle-500.png"
+    ],
+    "ellipse": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/ray-hennessy-229596-unsplash-rotated-ellipse-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/ray-hennessy-229596-unsplash-rotated-ellipse-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/ray-hennessy-229596-unsplash-rotated-ellipse-500.png"
+    ],
+    "random": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/ray-hennessy-229596-unsplash-random-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/ray-hennessy-229596-unsplash-random-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/ray-hennessy-229596-unsplash-random-500.png"
+    ]
+  },
+  {
+    "base": "https://storage.googleapis.com/transitive-bullshit-primitive/sander-wehkamp-579332-unsplash.jpg",
+    "shape": "random",
+    "size": 500,
+    "triangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/sander-wehkamp-579332-unsplash-triangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/sander-wehkamp-579332-unsplash-triangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/sander-wehkamp-579332-unsplash-triangle-500.png"
+    ],
+    "rectangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/sander-wehkamp-579332-unsplash-rotated-rectangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/sander-wehkamp-579332-unsplash-rotated-rectangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/sander-wehkamp-579332-unsplash-rotated-rectangle-500.png"
+    ],
+    "ellipse": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/sander-wehkamp-579332-unsplash-rotated-ellipse-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/sander-wehkamp-579332-unsplash-rotated-ellipse-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/sander-wehkamp-579332-unsplash-rotated-ellipse-500.png"
+    ],
+    "random": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/sander-wehkamp-579332-unsplash-random-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/sander-wehkamp-579332-unsplash-random-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/sander-wehkamp-579332-unsplash-random-500.png"
+    ]
+  },
+  {
+    "base": "https://storage.googleapis.com/transitive-bullshit-primitive/seth-doyle-188635-unsplash.jpg",
+    "shape": "triangle",
+    "size": 500,
+    "triangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/seth-doyle-188635-unsplash-triangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/seth-doyle-188635-unsplash-triangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/seth-doyle-188635-unsplash-triangle-500.png"
+    ],
+    "rectangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/seth-doyle-188635-unsplash-rotated-rectangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/seth-doyle-188635-unsplash-rotated-rectangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/seth-doyle-188635-unsplash-rotated-rectangle-500.png"
+    ],
+    "ellipse": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/seth-doyle-188635-unsplash-rotated-ellipse-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/seth-doyle-188635-unsplash-rotated-ellipse-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/seth-doyle-188635-unsplash-rotated-ellipse-500.png"
+    ],
+    "random": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/seth-doyle-188635-unsplash-random-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/seth-doyle-188635-unsplash-random-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/seth-doyle-188635-unsplash-random-500.png"
+    ]
+  },
+  {
+    "base": "https://storage.googleapis.com/transitive-bullshit-primitive/stefanus-martanto-setyo-husodo-14699-unsplash.jpg",
+    "shape": "random",
+    "size": 500,
+    "triangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/stefanus-martanto-setyo-husodo-14699-unsplash-triangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/stefanus-martanto-setyo-husodo-14699-unsplash-triangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/stefanus-martanto-setyo-husodo-14699-unsplash-triangle-500.png"
+    ],
+    "random": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/stefanus-martanto-setyo-husodo-14699-unsplash-random-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/stefanus-martanto-setyo-husodo-14699-unsplash-random-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/stefanus-martanto-setyo-husodo-14699-unsplash-random-500.png"
+    ]
+  },
+  {
+    "base": "https://storage.googleapis.com/transitive-bullshit-primitive/timothy-paul-smith-405497-unsplash.jpg",
+    "shape": "rectangle",
+    "size": 500,
+    "triangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/timothy-paul-smith-405497-unsplash-triangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/timothy-paul-smith-405497-unsplash-triangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/timothy-paul-smith-405497-unsplash-triangle-500.png"
+    ],
+    "rectangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/timothy-paul-smith-405497-unsplash-rotated-rectangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/timothy-paul-smith-405497-unsplash-rotated-rectangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/timothy-paul-smith-405497-unsplash-rotated-rectangle-500.png"
+    ],
+    "ellipse": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/timothy-paul-smith-405497-unsplash-rotated-ellipse-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/timothy-paul-smith-405497-unsplash-rotated-ellipse-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/timothy-paul-smith-405497-unsplash-rotated-ellipse-500.png"
+    ],
+    "random": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/timothy-paul-smith-405497-unsplash-random-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/timothy-paul-smith-405497-unsplash-random-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/timothy-paul-smith-405497-unsplash-random-500.png"
+    ]
+  },
+  {
+    "base": "https://storage.googleapis.com/transitive-bullshit-primitive/toni-lluch-4234-unsplash.jpg",
+    "shape": "random",
+    "size": 500,
+    "triangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/toni-lluch-4234-unsplash-triangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/toni-lluch-4234-unsplash-triangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/toni-lluch-4234-unsplash-triangle-500.png"
+    ],
+    "rectangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/toni-lluch-4234-unsplash-rotated-rectangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/toni-lluch-4234-unsplash-rotated-rectangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/toni-lluch-4234-unsplash-rotated-rectangle-500.png"
+    ],
+    "ellipse": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/toni-lluch-4234-unsplash-rotated-ellipse-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/toni-lluch-4234-unsplash-rotated-ellipse-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/toni-lluch-4234-unsplash-rotated-ellipse-500.png"
+    ],
+    "random": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/toni-lluch-4234-unsplash-random-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/toni-lluch-4234-unsplash-random-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/toni-lluch-4234-unsplash-random-500.png"
+    ]
+  },
+  {
+    "base": "https://storage.googleapis.com/transitive-bullshit-primitive/umanoide-112489-unsplash.jpg",
+    "shape": "ellipse",
+    "size": 500,
+    "triangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/umanoide-112489-unsplash-triangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/umanoide-112489-unsplash-triangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/umanoide-112489-unsplash-triangle-500.png"
+    ],
+    "rectangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/umanoide-112489-unsplash-rotated-rectangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/umanoide-112489-unsplash-rotated-rectangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/umanoide-112489-unsplash-rotated-rectangle-500.png"
+    ],
+    "ellipse": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/umanoide-112489-unsplash-rotated-ellipse-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/umanoide-112489-unsplash-rotated-ellipse-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/umanoide-112489-unsplash-rotated-ellipse-500.png"
+    ],
+    "random": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/umanoide-112489-unsplash-random-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/umanoide-112489-unsplash-random-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/umanoide-112489-unsplash-random-500.png"
+    ]
+  },
+  {
+    "base": "https://storage.googleapis.com/transitive-bullshit-primitive/vinicius-wiesehofer-641091-unsplash.jpg",
+    "shape": "random",
+    "size": 500,
+    "triangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/vinicius-wiesehofer-641091-unsplash-triangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/vinicius-wiesehofer-641091-unsplash-triangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/vinicius-wiesehofer-641091-unsplash-triangle-500.png"
+    ],
+    "rectangle": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/vinicius-wiesehofer-641091-unsplash-rotated-rectangle-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/vinicius-wiesehofer-641091-unsplash-rotated-rectangle-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/vinicius-wiesehofer-641091-unsplash-rotated-rectangle-500.png"
+    ],
+    "ellipse": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/vinicius-wiesehofer-641091-unsplash-rotated-ellipse-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/vinicius-wiesehofer-641091-unsplash-rotated-ellipse-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/vinicius-wiesehofer-641091-unsplash-rotated-ellipse-500.png"
+    ],
+    "random": [
+      "https://storage.googleapis.com/transitive-bullshit-primitive/vinicius-wiesehofer-641091-unsplash-random-50.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/vinicius-wiesehofer-641091-unsplash-random-200.png",
+      "https://storage.googleapis.com/transitive-bullshit-primitive/vinicius-wiesehofer-641091-unsplash-random-500.png"
+    ]
+  }
+]

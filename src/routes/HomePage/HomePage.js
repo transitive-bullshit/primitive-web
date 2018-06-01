@@ -3,16 +3,37 @@
  */
 
 import React, { Component } from 'react'
-import { Link } from 'react-router-dom'
+
+import BeforeAfterSlider from 'react-before-after-slider'
+
+import images from '../../assets/images.json'
+import styles from './styles.module.css'
+
+const sizes = {
+  50: 0,
+  200: 1,
+  500: 2
+}
 
 export default class HomePage extends Component {
   render() {
     return (
-      <div>
-        <h1>Home Page</h1>
+      <div className={styles.container}>
+        {images.map((image, i) => {
+          const { shape, size } = image
+          const index = sizes[size]
 
-        <p>TODO</p>
-        <Link to='/login'>Login</Link>
+          return (
+            <BeforeAfterSlider
+              key={i}
+              className={styles.image}
+              before={image.base}
+              after={image[shape][index]}
+              width={512}
+              height={320}
+            />
+          )
+        })}
       </div>
     )
   }
