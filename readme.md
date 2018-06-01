@@ -2,6 +2,8 @@
 
 > Demo website for the [primitive JS library](https://github.com/transitive-bullshit/primitive) which reproduces images from geometric primitives.
 
+[![Demo](https://storage.googleapis.com/transitive-bullshit-primitive/artem-bali-578205-unsplash-triangle-500.png)](https://transitive-bullshit.github.io/primitive-web/)
+
 ## Related
 
 - [primitive (js)](https://github.com/transitive-bullshit/primitive) - Reproduce images from geometric primitives (Node.js + browser port of [primitive](https://github.com/fogleman/primitive)).

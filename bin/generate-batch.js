@@ -5,13 +5,13 @@ const path = require('path')
 const primitive = require('primitive')
 const pMap = require('p-map')
 
-const imagesPath = path.join(__dirname, 'media')
+const mediaPath = path.join(__dirname, '..', 'media')
 
 const shapeTypes = [
+  // 'ellipse',
+  // 'rectangle',
   'triangle',
-  'ellipse',
   'rotated-ellipse',
-  'rectangle',
   'rotated-rectangle',
   'random'
 ]
@@ -32,20 +32,30 @@ const steps = new Set([
 
 const cases = []
 
-fs.readdirSync(imagesPath)
-  .forEach((input) => {
+fs.readdirSync(mediaPath)
+  .forEach((file) => {
+    const input = path.join(mediaPath, file)
+
     shapeTypes.forEach((shapeType) => {
-      cases.push({
-        input,
-        shapeType
+      configs.forEach((config) => {
+        cases.push({
+          ...config,
+          input,
+          shapeType
+        })
       })
     })
   })
 
-pMap(cases, async (opts) => {
-  const base = path.basename(opts.input).split('.')[0].toLowerCase()
-  console.log(`${opts.input} - ${opts.shapeType}`)
+console.log(JSON.stringify(cases, null, 2))
 
+pMap(cases, async (opts, index) => {
+  const base = path.basename(opts.input).split('.')[0].toLowerCase()
+  console.log()
+  console.log()
+  console.log(`${index}) ${opts.input} - ${opts.shapeType}`)
+
+  console.time(index)
   await primitive({
     ...opts,
     log: console.log.bind(console),
@@ -56,6 +66,9 @@ pMap(cases, async (opts) => {
       }
     }
   })
+  console.timeEnd(index)
+}, {
+  concurrency: 1
 })
   .then(() => {
     console.log('done rendering', cases.length, 'cases')
