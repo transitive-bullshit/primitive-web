@@ -18,6 +18,7 @@
     "antd": "^3.4.3",
     "bowser": "^1.9.3",
     "classnames": "^2.2.5",
+    "ow": "^0.4.0",
     "p-map": "^1.2.0",
     "primitive": "transitive-bullshit/primitive",
     "prop-types": "^15.6.1",
