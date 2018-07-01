@@ -13,6 +13,7 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 
 import App from './App'
+import 'ow'
 
 // mount react app
 ReactDOM.render(<App />, document.getElementById('root'))

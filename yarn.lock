@@ -3728,6 +3728,10 @@ eslint@4.15.0:
     table "^4.0.1"
     text-table "~0.2.0"
 
+esm@^3.0.45:
+  version "3.0.48"
+  resolved "https://registry.yarnpkg.com/esm/-/esm-3.0.48.tgz#24bf3834428b44cac7d953bb5b196d2e4ec0d815"
+
 espree@^3.5.2:
   version "3.5.4"
   resolved "https://registry.yarnpkg.com/espree/-/espree-3.5.4.tgz#b0f447187c8a8bed944b815a660bddf5deb5d1a7"
@@ -7340,17 +7344,19 @@ pretty-time@^0.2.0:
     is-number "^2.0.2"
     nanoseconds "^0.1.0"
 
-primitive@transitive-bullshit/primitive:
-  version "0.0.0"
-  resolved "https://codeload.github.com/transitive-bullshit/primitive/tar.gz/cb12ec2e9f54761408fd882bdc5453c0356294df"
+primitive@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/primitive/-/primitive-1.0.0.tgz#f4dfd64ee1e16e3a6eda66678812eb56cf3d5721"
   dependencies:
     chromatism "^3.0.0"
+    esm "^3.0.45"
     execa "^0.10.0"
     get-pixels "^3.3.0"
     ndarray "^1.0.18"
     ow "^0.4.0"
     pify "^3.0.0"
     pump-promise "^1.0.0"
+    raf "^3.4.0"
     random-int "^1.0.0"
     random-normal "^1.0.0"
     rmfr "^2.0.0"
