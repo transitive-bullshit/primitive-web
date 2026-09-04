@@ -16,7 +16,7 @@ export default class ImageEditor extends Component {
     if (!output) return
 
     primitive({
-      input: 'https://storage.googleapis.com/transitive-bullshit-primitive/monalisa.png',
+      input: `${process.env.PUBLIC_URL}/media/monalisa.png`,
       output,
       numSteps: 500
     })
